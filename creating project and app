@@ -1,0 +1,5 @@
+hi iam explaining about dangoo and how to create app.
+django-admin startproject <name>
+python startapp <appname>
+python manage.py runserver
+
